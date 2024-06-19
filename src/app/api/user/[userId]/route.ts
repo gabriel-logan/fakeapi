@@ -1,13 +1,9 @@
 import { NextRequest, NextResponse } from "next/server";
 
 import UserFakeModel from "@/db/models/UserFakeModel";
-import { Users } from "@/types/UserProps";
+import users from "@/db/tables/users.json";
 
 export async function generateStaticParams() {
-	const users: Users = await fetch(
-		`${process.env.NEXT_PUBLIC_HOST_URL}/api/user`,
-	).then((res) => res.json());
-
 	return users.map((user) => ({
 		userId: user.id.toString(),
 	}));
