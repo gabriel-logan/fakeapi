@@ -19,5 +19,5 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 TEMP SOLUTION:
-
-https://raw.githubusercontent.com/gabriel-logan/fakeapi/main/src/db/tables/users.json
+https://gabriel-logan.github.io/fakeapi/api/
+https://gabriel-logan.github.io/fakeapi/api/:id
