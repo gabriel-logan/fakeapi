@@ -1,0 +1,530 @@
+[
+	{
+		"id": 1,
+		"first_name": "Admin",
+		"last_name": "User",
+		"username": "admin",
+		"email": "admin@fakeapi.com",
+		"password": "password"
+	},
+	{
+		"id": 2,
+		"first_name": "John",
+		"last_name": "Doe",
+		"username": "johndoe",
+		"email": "johndoe@fakeapi.com",
+		"password": "abcd1234"
+	},
+	{
+		"id": 3,
+		"first_name": "Jane",
+		"last_name": "Doe",
+		"username": "janedoe",
+		"email": "janedoe@fakeapi.com",
+		"password": "12abcdJJ"
+	},
+	{
+		"id": 4,
+		"first_name": "Alice",
+		"last_name": "Smith",
+		"username": "alicesmith",
+		"email": "alice@fakeapi.com",
+		"password": "alice1234"
+	},
+	{
+		"id": 5,
+		"first_name": "Bob",
+		"last_name": "Johnson",
+		"username": "bobjohnson",
+		"email": "bob@fakeapi.com",
+		"password": "bob1234"
+	},
+	{
+		"id": 6,
+		"first_name": "Charlie",
+		"last_name": "Brown",
+		"username": "charliebrown",
+		"email": "charlie@fakeapi.com",
+		"password": "charlie1234"
+	},
+	{
+		"id": 7,
+		"first_name": "David",
+		"last_name": "Williams",
+		"username": "davidwilliams",
+		"email": "david@fakeapi.com",
+		"password": "david1234"
+	},
+	{
+		"id": 8,
+		"first_name": "Eve",
+		"last_name": "Jones",
+		"username": "evejones",
+		"email": "eve@fakeapi.com",
+		"password": "eve1234"
+	},
+	{
+		"id": 9,
+		"first_name": "Frank",
+		"last_name": "Miller",
+		"username": "frankmiller",
+		"email": "frank@fakeapi.com",
+		"password": "frank1234"
+	},
+	{
+		"id": 10,
+		"first_name": "Grace",
+		"last_name": "Davis",
+		"username": "gracedavis",
+		"email": "grace@fakeapi.com",
+		"password": "grace1234"
+	},
+	{
+		"id": 11,
+		"first_name": "Harry",
+		"last_name": "Garcia",
+		"username": "harrygarcia",
+		"email": "harry@fakeapi.com",
+		"password": "harry1234"
+	},
+	{
+		"id": 12,
+		"first_name": "Ivy",
+		"last_name": "Martinez",
+		"username": "ivymartinez",
+		"email": "ivy@fakeapi.com",
+		"password": "ivy1234"
+	},
+	{
+		"id": 13,
+		"first_name": "Jack",
+		"last_name": "Rodriguez",
+		"username": "jackrodriguez",
+		"email": "jack@fakeapi.com",
+		"password": "jack1234"
+	},
+	{
+		"id": 14,
+		"first_name": "Kelly",
+		"last_name": "Lopez",
+		"username": "kellylopez",
+		"email": "kellylopes@fakeapi.com",
+		"password": "kelly1234"
+	},
+	{
+		"id": 15,
+		"first_name": "Liam",
+		"last_name": "Harris",
+		"username": "liamharris",
+		"email": "liam@fakeapi.com",
+		"password": "liam1234"
+	},
+	{
+		"id": 16,
+		"first_name": "Mia",
+		"last_name": "Clark",
+		"username": "miaclark",
+		"email": "mia@fakeapi.com",
+		"password": "mia1234"
+	},
+	{
+		"id": 17,
+		"first_name": "Noah",
+		"last_name": "Lewis",
+		"username": "noahlewis",
+		"email": "noah@fakeapi.com",
+		"password": "noah1234"
+	},
+	{
+		"id": 18,
+		"first_name": "Olivia",
+		"last_name": "Walker",
+		"username": "oliviawalker",
+		"email": "olivia@fakeapi.com",
+		"password": "olivia1234"
+	},
+	{
+		"id": 19,
+		"first_name": "Paul",
+		"last_name": "Hall",
+		"username": "paulhall",
+		"email": "paul@fakeapi.com",
+		"password": "paul1234"
+	},
+	{
+		"id": 20,
+		"first_name": "Quinn",
+		"last_name": "Allen",
+		"username": "quinnallen",
+		"email": "quinn@fakeapi.com",
+		"password": "quinn1234"
+	},
+	{
+		"id": 21,
+		"first_name": "Ruby",
+		"last_name": "Young",
+		"username": "rubyyoung",
+		"email": "ruby@fakeapi.com",
+		"password": "ruby1234"
+	},
+	{
+		"id": 22,
+		"first_name": "Sam",
+		"last_name": "Hernandez",
+		"username": "samhernandez",
+		"email": "sam@fakeapi.com",
+		"password": "sam1234"
+	},
+	{
+		"id": 23,
+		"first_name": "Tina",
+		"last_name": "King",
+		"username": "tinaking",
+		"email": "tina@fakeapi.com",
+		"password": "tina1234"
+	},
+	{
+		"id": 24,
+		"first_name": "Uma",
+		"last_name": "Wright",
+		"username": "umawright",
+		"email": "uma@fakeapi.com",
+		"password": "uma1234"
+	},
+	{
+		"id": 25,
+		"first_name": "Victor",
+		"last_name": "Lopez",
+		"username": "victorlopez",
+		"email": "victor@fakeapi.com",
+		"password": "victor1234"
+	},
+	{
+		"id": 26,
+		"first_name": "Wendy",
+		"last_name": "Hill",
+		"username": "wendyhill",
+		"email": "wendy@fakeapi.com",
+		"password": "wendy1234"
+	},
+	{
+		"id": 27,
+		"first_name": "Xander",
+		"last_name": "Scott",
+		"username": "xanderscott",
+		"email": "xander@fakeapi.com",
+		"password": "xander1234"
+	},
+	{
+		"id": 28,
+		"first_name": "Yara",
+		"last_name": "Green",
+		"username": "yaragreen",
+		"email": "yara@fakeapi.com",
+		"password": "yara1234"
+	},
+	{
+		"id": 29,
+		"first_name": "Zane",
+		"last_name": "Adams",
+		"username": "zaneadams",
+		"email": "zane@fakeapi.com",
+		"password": "zane1234"
+	},
+	{
+		"id": 30,
+		"first_name": "Aaron",
+		"last_name": "Baker",
+		"username": "aaronbaker",
+		"email": "aaron@fakeapi.com",
+		"password": "aaron1234"
+	},
+	{
+		"id": 31,
+		"first_name": "Bella",
+		"last_name": "Gonzalez",
+		"username": "bellagonzalez",
+		"email": "bella@fakeapi.com",
+		"password": "bella1234"
+	},
+	{
+		"id": 32,
+		"first_name": "Chris",
+		"last_name": "Nelson",
+		"username": "chrisnelson",
+		"email": "chris@fakeapi.com",
+		"password": "chris1234"
+	},
+	{
+		"id": 33,
+		"first_name": "Daisy",
+		"last_name": "Carter",
+		"username": "daisycarter",
+		"email": "daisy@fakeapi.com",
+		"password": "daisy1234"
+	},
+	{
+		"id": 34,
+		"first_name": "Ethan",
+		"last_name": "Mitchell",
+		"username": "ethanmitchell",
+		"email": "ethan@fakeapi.com",
+		"password": "ethan1234"
+	},
+	{
+		"id": 35,
+		"first_name": "Fiona",
+		"last_name": "Perez",
+		"username": "fionaperez",
+		"email": "fiona@fakeapi.com",
+		"password": "fiona1234"
+	},
+	{
+		"id": 36,
+		"first_name": "George",
+		"last_name": "Roberts",
+		"username": "georgeroberts",
+		"email": "george@fakeapi.com",
+		"password": "george1234"
+	},
+	{
+		"id": 37,
+		"first_name": "Hannah",
+		"last_name": "Turner",
+		"username": "hannahturner",
+		"email": "hannah@fakeapi.com",
+		"password": "hannah1234"
+	},
+	{
+		"id": 38,
+		"first_name": "Ian",
+		"last_name": "Phillips",
+		"username": "ianphillips",
+		"email": "ian@fakeapi.com",
+		"password": "ian1234"
+	},
+	{
+		"id": 39,
+		"first_name": "Jill",
+		"last_name": "Campbell",
+		"username": "jillcampbell",
+		"email": "jill@fakeapi.com",
+		"password": "jill1234"
+	},
+	{
+		"id": 40,
+		"first_name": "Kyle",
+		"last_name": "Parker",
+		"username": "kyleparker",
+		"email": "kyle@fakeapi.com",
+		"password": "kyle1234"
+	},
+	{
+		"id": 41,
+		"first_name": "Lena",
+		"last_name": "Evans",
+		"username": "lenaevans",
+		"email": "lena@fakeapi.com",
+		"password": "lena1234"
+	},
+	{
+		"id": 42,
+		"first_name": "Mike",
+		"last_name": "Edwards",
+		"username": "mikeedwards",
+		"email": "mike@fakeapi.com",
+		"password": "mike1234"
+	},
+	{
+		"id": 43,
+		"first_name": "Nina",
+		"last_name": "Collins",
+		"username": "ninacollins",
+		"email": "nina@fakeapi.com",
+		"password": "nina1234"
+	},
+	{
+		"id": 44,
+		"first_name": "Oscar",
+		"last_name": "Stewart",
+		"username": "oscarstewart",
+		"email": "oscar@fakeapi.com",
+		"password": "oscar1234"
+	},
+	{
+		"id": 45,
+		"first_name": "Paula",
+		"last_name": "Sanchez",
+		"username": "paulasanchez",
+		"email": "paula@fakeapi.com",
+		"password": "paula1234"
+	},
+	{
+		"id": 46,
+		"first_name": "Quincy",
+		"last_name": "Morris",
+		"username": "quincymorris",
+		"email": "quincy@fakeapi.com",
+		"password": "quincy1234"
+	},
+	{
+		"id": 47,
+		"first_name": "Rita",
+		"last_name": "Rogers",
+		"username": "ritarogers",
+		"email": "rita@fakeapi.com",
+		"password": "rita1234"
+	},
+	{
+		"id": 48,
+		"first_name": "Steve",
+		"last_name": "Reed",
+		"username": "stevereed",
+		"email": "steve@fakeapi.com",
+		"password": "steve1234"
+	},
+	{
+		"id": 49,
+		"first_name": "Tara",
+		"last_name": "Cook",
+		"username": "taracook",
+		"email": "tara@fakeapi.com",
+		"password": "tara1234"
+	},
+	{
+		"id": 50,
+		"first_name": "Umar",
+		"last_name": "Morgan",
+		"username": "umarmorgan",
+		"email": "umar@fakeapi.com",
+		"password": "umar1234"
+	},
+	{
+		"id": 51,
+		"first_name": "Vera",
+		"last_name": "Bell",
+		"username": "verabell",
+		"email": "vera@fakeapi.com",
+		"password": "vera1234"
+	},
+	{
+		"id": 52,
+		"first_name": "Will",
+		"last_name": "Murphy",
+		"username": "willmurphy",
+		"email": "will@fakeapi.com",
+		"password": "will1234"
+	},
+	{
+		"id": 53,
+		"first_name": "Xenia",
+		"last_name": "Bailey",
+		"username": "xeniabailey",
+		"email": "xenia@fakeapi.com",
+		"password": "xenia1234"
+	},
+	{
+		"id": 54,
+		"first_name": "Yuri",
+		"last_name": "Rivera",
+		"username": "yuririvera",
+		"email": "yuri@fakeapi.com",
+		"password": "yuri1234"
+	},
+	{
+		"id": 55,
+		"first_name": "Zoe",
+		"last_name": "Cooper",
+		"username": "zoecooper",
+		"email": "zoe@fakeapi.com",
+		"password": "zoe1234"
+	},
+	{
+		"id": 56,
+		"first_name": "Albert",
+		"last_name": "Richardson",
+		"username": "albertrichardson",
+		"email": "albert@fakeapi.com",
+		"password": "albert1234"
+	},
+	{
+		"id": 57,
+		"first_name": "Beth",
+		"last_name": "Cox",
+		"username": "bethcox",
+		"email": "beth@fakeapi.com",
+		"password": "beth1234"
+	},
+	{
+		"id": 58,
+		"first_name": "Carl",
+		"last_name": "Ward",
+		"username": "carlward",
+		"email": "carl@fakeapi.com",
+		"password": "carl1234"
+	},
+	{
+		"id": 59,
+		"first_name": "Dana",
+		"last_name": "Brooks",
+		"username": "danabrooks",
+		"email": "dana@fakeapi.com",
+		"password": "dana1234"
+	},
+	{
+		"id": 60,
+		"first_name": "Earl",
+		"last_name": "Kelly",
+		"username": "earlkelly",
+		"email": "earl@fakeapi.com",
+		"password": "earl1234"
+	},
+	{
+		"id": 61,
+		"first_name": "Faye",
+		"last_name": "Sanders",
+		"username": "fayesanders",
+		"email": "faye@fakeapi.com",
+		"password": "faye1234"
+	},
+	{
+		"id": 62,
+		"first_name": "Gabe",
+		"last_name": "Price",
+		"username": "gabeprice",
+		"email": "gabe@fakeapi.com",
+		"password": "gabe1234"
+	},
+	{
+		"id": 63,
+		"first_name": "Holly",
+		"last_name": "Bennett",
+		"username": "hollybennett",
+		"email": "holly@fakeapi.com",
+		"password": "holly1234"
+	},
+	{
+		"id": 64,
+		"first_name": "Ira",
+		"last_name": "Wood",
+		"username": "irawood",
+		"email": "ira@fakeapi.com",
+		"password": "ira1234"
+	},
+	{
+		"id": 65,
+		"first_name": "Jake",
+		"last_name": "Barnes",
+		"username": "jakebarnes",
+		"email": "jake@fakeapi.com",
+		"password": "jake1234"
+	},
+	{
+		"id": 66,
+		"first_name": "Kara",
+		"last_name": "Ross",
+		"username": "karaross",
+		"email": "kara@fakeapi.com",
+		"password": "kara1234"
+	}
+]

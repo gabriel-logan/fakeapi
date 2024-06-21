@@ -1,0 +1,8 @@
+{
+    "id": 4,
+    "first_name": "Alice",
+    "last_name": "Smith",
+    "username": "alicesmith",
+    "email": "alice@fakeapi.com",
+    "password": "alice1234"
+}
