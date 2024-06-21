@@ -35,3 +35,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# executables
+*.p
+*.pexe
+*.exe
+*.dll
+*.so
+genRoutes.*
