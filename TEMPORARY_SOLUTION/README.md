@@ -1,0 +1,4 @@
+# FakeApi
+
+ - /api
+ - /api/:id
